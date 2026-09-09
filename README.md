@@ -95,7 +95,7 @@ The project was developed during my **Java Full Stack Internship** using Java, J
 * Register and login
 * Create job postings
 * Update job details
-* Delete job postings
+* Delete job posting
 * View applications
 * Manage recruitment information
 
