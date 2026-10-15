@@ -21,3 +21,4 @@ public class CommonController {
 		return "Home";
 	}
 }
+
